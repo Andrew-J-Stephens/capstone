@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/capstone/static/css/main.ddc90d6d.css",
+    "main.js": "/capstone/static/js/main.4256c6ad.js",
+    "static/js/787.28cb0dcd.chunk.js": "/capstone/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ryerson-logo-01.png": "/capstone/static/media/ryerson-logo-01.9bd7eb3cf352ec953143.png",
+    "index.html": "/capstone/index.html",
+    "main.ddc90d6d.css.map": "/capstone/static/css/main.ddc90d6d.css.map",
+    "main.4256c6ad.js.map": "/capstone/static/js/main.4256c6ad.js.map",
+    "787.28cb0dcd.chunk.js.map": "/capstone/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc90d6d.css",
+    "static/js/main.4256c6ad.js"
+  ]
+}
